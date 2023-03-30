@@ -1,5 +1,9 @@
-<h1>Hi, I'm Ryu! 
+<h1>Hi, I'm Ryu!</h1> 
 
+- <b>📍 Japan</b> 
+- <b>🎓 InfoSec Student</b> 
+- <b>💻 Passionate about IT & Data Science</b>
+  
 <h2>👨‍💻 Information Security Projects:</h2>
 
 - <b>[Python Cryptographic Project](https://github.com/delray6/Python-Cryptographic-Project)</b>
