@@ -6,7 +6,7 @@
   
 <h2>👨‍💻 Information Security Projects:</h2>
 
-- <b>[Network Traffic Analysis and Geolocation Mapping Project](https://github.com/ryulewis/Network-Traffic-Analysis-and-Geolocation-Mapping-Project)</b>
+- <b>[Network Traffic Analysis and Geolocation Mapping Project](https://github.com/ryulewis/Network-Packet-Analysis-and-Geolocation-Mapping-Project)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
