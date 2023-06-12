@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ryu!</h1> 
 
+<h2>🌟 About me</h2>
+
 - <b>📍 Tokyo, Japan</b> 
 - <b>🎓 InfoSec Student</b> 
 - <b>💻 Passionate about IT & Data Science</b>
