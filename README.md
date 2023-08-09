@@ -8,7 +8,8 @@
   
 <h2>👨‍💻 Information Security Projects:</h2>
 
-- <b>[Network Packet Analysis and Geolocation Mapping Project](https://github.com/ryulewis/Network-Packet-Analysis-and-Geolocation-Mapping-Project)</b>
+- <b>🔑 [Password Strength Predictor](https://github.com/ryulewis/Password-Strength-Predictor)</b>
+- <b>🍯 [Honeypot Attack Visualization](https://github.com/ryulewis/Honeypot-Attack-Visualization)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
