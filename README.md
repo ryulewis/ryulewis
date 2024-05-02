@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Ryu!</h1> 
 
-<!--
-**ryulewis/ryulewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🌟 About me</h2>
 
-Here are some ideas to get you started:
+- <b>📍 Tokyo, Japan</b> 
+- <b>🎓 InfoSec Graduate</b> 
+- <b>💻 Passionate about IT & Data Science</b>
+  
+<h2>👨‍💻 Information Security Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>🔐 [Encryption/Decryption Tool](https://github.com/ryulewis/Encryption-Tool)</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ryulewis/)](https://www.linkedin.com/in/ryulewis/)
