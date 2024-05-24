@@ -8,7 +8,7 @@
   
 <h2>👨‍💻 Information Security Projects:</h2>
 
-- <b>🔐 [Encryption/Decryption Tool](https://github.com/ryulewis/Encryption-Tool)</b>
+- <b>🔐 [Encryption Tool](https://github.com/ryulewis/Encryption-Tool)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
